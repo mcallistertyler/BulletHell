@@ -1,5 +1,5 @@
 # How to play
-Arrow keys/WASD - Move ship "\n"
+Arrow keys/WASD - Move ship
 
 Spacebar - Fire
 
