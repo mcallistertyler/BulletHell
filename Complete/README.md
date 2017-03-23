@@ -1,4 +1,6 @@
 # How to play
+Download the 'Polarity.exe' file to install.
+
 Arrow keys/WASD - Move ship
 
 Spacebar - Fire
